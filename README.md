@@ -7,7 +7,7 @@ O objetivo principal deste projeto é obter conhecimentos das plataformas, API's
 ## Metodologia
 Para este projeto, foi utilizadado como base o canal [Seja Um Data Scientist](https://www.youtube.com/c/SejaUmDataScientist), onde se encontra uma série de vídeos sobre [Deploy de Modelos em Produção](https://www.youtube.com/watch?v=d6caxBhnf2I&list=PLZlkyCIi8bMpKoAicmYKrmAzZlkDFQVHY&index=4). 
 
-Como base de dados, foi utilizado um conhecido conjunto de dados sobre a [qualidade de vinhos](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/)(winequality-red.csv), disponibilizado pela _University of California Irvine_ em seu repositório de _Machine Learning_ (ML). 
+Como base de dados, foi utilizado um conhecido conjunto de dados sobre a [qualidade de vinhos](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/) (winequality-red.csv), disponibilizado pela _University of California Irvine_ em seu repositório de _Machine Learning_ (ML). 
 
 ## Desenvolvimento
 Para o desenvolvimento do modelo primeiramente foi criado uma máquina virtual utilizando VirtualBox [Oracle VM](https://www.virtualbox.org/wiki/Downloads), onde foram desenvolvidos os demais processos. 
@@ -20,4 +20,4 @@ Este projeto visava apenas pôr em produção um modelo de ML, para que qualquer
 
 
 
-# Fique a vontade para entrar em contato e discutir sobre esse ou outro projeto via [LinkedIn](https://www.linkedin.com/in/fernandonast/). Abs!
+Fique a vontade para entrar em contato e discutir sobre esse ou outro projeto via [LinkedIn](https://www.linkedin.com/in/fernandonast/). Abs!
