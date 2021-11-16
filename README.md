@@ -28,4 +28,4 @@ Este projeto visava apenas pôr em produção um modelo de ML, para que qualquer
 
 
 
-Fique a vontade para entrar em contato e discutir sobre esse ou outro projeto via [LinkedIn](https://www.linkedin.com/in/fernandonast/). Abs!
+*Fique a vontade para entrar em contato e discutir sobre esse ou outro projeto via [LinkedIn](https://www.linkedin.com/in/fernandonast/). Abs!*
