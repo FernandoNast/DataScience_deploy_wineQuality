@@ -10,7 +10,7 @@ Neste repositório encontram-se apenas os aquivos utilizados para se fazer requi
 * ``requirements.txt`` - arquivo que contém os pacotes utilizados na coonstrução de todo o projeto;
 
 ## Objetivo
-O objetivo principal deste projeto é obter conhecimentos das plataformas, API's, versionamentos, Servers que são necessários para deixar o modelo desenvolvido disponível e entender todo este processo, desde a criação do modelo, estruturas em arquivos .py de preparação dos dados até requisições do modelo.
+O objetivo principal deste projeto é obter conhecimentos das plataformas, API's, versionamentos, Servers que são necessários para deixar o modelo desenvolvido disponível e entender todo este processo, desde a criação do modelo, estruturas em arquivos ``.py`` de preparação dos dados até requisições do modelo.
 
 ## Metodologia
 Para este projeto, foi utilizadado como base o canal [Seja Um Data Scientist](https://www.youtube.com/c/SejaUmDataScientist), onde se encontra uma série de vídeos sobre [Deploy de Modelos em Produção](https://www.youtube.com/watch?v=d6caxBhnf2I&list=PLZlkyCIi8bMpKoAicmYKrmAzZlkDFQVHY&index=4). 
